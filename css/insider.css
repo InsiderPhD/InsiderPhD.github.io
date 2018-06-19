@@ -15,6 +15,7 @@ body {
   background-size: 90px 60px;
   background-position: top left, 45px 30px, 90px 120px;
   background-repeat: repeat, repeat, no-repeat;
+height: auto;
 }
 main.text-page {
         background-color: #333;
